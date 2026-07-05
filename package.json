@@ -1,0 +1,7 @@
+{
+  "name": "vaia",
+  "main": "src",
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
